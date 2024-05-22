@@ -22,6 +22,8 @@ Head over to build.gradle (app level) then scroll down to default config code pa
 
 > The following credentials are fake
 
+```bash
+
 buildConfigField("String", "MPESA_APP_KEY", "\"B9JoffzGqmjoofROxs2Irjr4caV95eOKWP9SF37A8iWwG\"")
 
 buildConfigField("String", "MPESA_APP_SECRET", "\"LI36UvIdqSoLpRxUfQnYynlw0Zo75RqAgysCGb0lKpObBxISlcAk7TzLexGEG\"")
@@ -33,6 +35,8 @@ buildConfigField("String", "MPESA_PASSKEY", "\"bfb279f9aa9bdbcf158e97dd71a467cd2
 buildConfigField("String", "MPESA_CALLBACK_URL", "\"https://mydomain.com/pat\"")
 
 buildConfigField("String", "MPESA_ACCOUNT_REFERENCE", "\"Test\"")
+
+```
 
 ### Sync Now
 
