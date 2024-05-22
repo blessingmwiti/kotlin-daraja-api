@@ -16,7 +16,7 @@ Select your app and all the keys and configurations needed will be there
 
 ## Input Credentials
 
-Head over to build.gradle (app level) and head over to default config code part, and input your credentials to the corresponding name
+Head over to build.gradle (app level) then scroll down to default config code part, and input your credentials to the corresponding name
 
 ### Example
 
