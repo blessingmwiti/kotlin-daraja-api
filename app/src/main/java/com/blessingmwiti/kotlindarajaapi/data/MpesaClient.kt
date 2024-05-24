@@ -1,4 +1,4 @@
-package com.blessingmwiti.kotlindarajaapi
+package com.blessingmwiti.kotlindarajaapi.data
 
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
