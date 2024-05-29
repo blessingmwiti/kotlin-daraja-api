@@ -1,4 +1,4 @@
-package com.blessingmwiti.kotlindarajaapi.ui.theme
+package com.blessingmwiti.kotlindarajaapi.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
